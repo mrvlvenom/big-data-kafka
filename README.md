@@ -1,6 +1,6 @@
 # Simple Kafka with Docker
-- Steven Figo - 5027221021
-- Sighra Attariq Sumerejati	- 5027221068
+- M. Januar Eko Wicaksono - 5027221006
+- Subkhan Mas Udi	- 5027221044
 
 Proyek ini adalah contoh sederhana untuk menjalankan Apache Kafka menggunakan Docker. Proyek ini mencakup konfigurasi *Kafka* dan *Zookeeper* untuk menjalankan instance Kafka yang dapat diakses lokal untuk kebutuhan pengembangan.
 
@@ -9,7 +9,7 @@ Proyek ini adalah contoh sederhana untuk menjalankan Apache Kafka menggunakan Do
 
 Clone proyek ini ke komputer lokal Anda:
 ```bash
-git clone https://github.com/Derkora/simple-kafka.git
+git clone https://github.com/mrvlvenom95/big-data-kafka.git
 cd simple-kafka
 ```
 
